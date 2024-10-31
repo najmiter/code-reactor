@@ -35,7 +35,7 @@
 [issues-shield]: https://img.shields.io/github/issues/najmiter/code-reactor.svg?style=for-the-badge
 [issues-url]: https://github.com/najmiter/code-reactor/issues
 [license-shield]: https://img.shields.io/github/license/najmiter/code-reactor.svg?style=for-the-badge
-[license-url]: https://github.com/najmiter/code-reactor/blob/master/LICENSE.txt
+[license-url]: https://github.com/najmiter/code-reactor/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/najmiter
 [product-screenshot]: images/screenshot.png
