@@ -7,7 +7,7 @@
 
 <br />
 > [!WARNING]  
-> <h1>⚠ UNDER DEVELOPMENT!</h1>
+> ⚠ UNDER DEVELOPMENT!
 
 <br />
 <div align="center">
