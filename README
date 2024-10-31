@@ -1,0 +1,24 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br />
+<div align="center">
+  <a href="https://github.com/najmiter">
+    <img src="https://avatars.githubusercontent.com/u/85332859?v=4" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Code Reactor</h3>
+
+  <p align="center">
+    A code highlighter component for react
+    <br />
+    <a href="https://github.com/najmiter/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/najmiter">View Demo</a>
+  </p>
+</div>
