@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/najmiter/code-reactor.git"
+  },
+  "homepage": "https://github.com/najmiter/code-reactor",
   "scripts": {
     "build": "rollup -c",
     "test": "jest",
