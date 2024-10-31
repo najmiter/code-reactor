@@ -13,9 +13,15 @@
     "test": "jest",
     "prepublishOnly": "npm run build"
   },
-  "keywords": [],
+  "keywords": [
+    "code",
+    "highlight",
+    "highlighter",
+    "code-highlighter",
+    "react-code-highlighter"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "react": "^18.3.1",
