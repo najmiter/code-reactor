@@ -1,6 +1,6 @@
 {
   "name": "code-reactor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "types": "dist/index.d.ts",
   "repository": {
@@ -8,8 +8,13 @@
     "url": "https://github.com/najmiter/code-reactor.git"
   },
   "homepage": "https://github.com/najmiter/code-reactor",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "rollup -c",
+    "patch": "npm version patch --no-git-tag-version",
     "test": "jest",
     "prepublishOnly": "npm run build"
   },
@@ -20,9 +25,9 @@
     "code-highlighter",
     "react-code-highlighter"
   ],
-  "author": "",
+  "author": "Najam",
   "license": "MIT",
-  "description": "",
+  "description": "A code highlighter component for react",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
