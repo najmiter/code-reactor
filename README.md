@@ -6,7 +6,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
-<h1 style="color: gold" align="center">⚠ UNDER DEVELOPMENT!</h1>
+<h1 color="gold" align="center">⚠ UNDER DEVELOPMENT!</h1>
 
 <br />
 <div align="center">
