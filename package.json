@@ -2,6 +2,7 @@
   "name": "code-reactor",
   "version": "1.0.0",
   "main": "index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "rollup -c",
     "test": "jest",
