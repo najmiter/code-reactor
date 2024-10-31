@@ -6,7 +6,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 > [!WARNING]  
-> ⚠ UNDER DEVELOPMENT!
+> This component is under development and NOT READY TO BE USED!
 
 <br />
 <div align="center">
