@@ -37,4 +37,6 @@ yarn-error.log*
 # Git-specific files
 .git/
 
+# misc
 package-lock.json
+renderer
